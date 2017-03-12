@@ -1,5 +1,8 @@
 _repo: Her-Father-s-Daughter_904
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stratton-Porter, Gene
@@ -16,6 +19,8 @@ description: Cover; Her Father's Daughter; Copyright; Contents; List of Characte
   Plus; CHAPTER X; Katy to the Rescue; CHAPTER XI; Assisting Providence; CHAPTER XII;
   The Lay of the Land; CHAPTER XIII; Leavening the Bread of Life; CHAPTER XIV; Saturday's
   Child; CHAPTER XV.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/904#Her-Father-s-Daughter
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '1997-05-01'
 gutenberg_type: Text
